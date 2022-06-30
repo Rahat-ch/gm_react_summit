@@ -19,3 +19,7 @@ You may also see any lint errors in the console.
 ## Installed Dependencies
 
 ethers.js for interacting with smart contracts from our frontend.
+
+## Slide Deck
+
+https://pitch.com/public/31ec0f0f-356b-4046-80f3-9a25236f4ef5
